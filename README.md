@@ -90,6 +90,6 @@ Este app foi desenvolvido, por Leonardo Braga, como parte de um desafio educacio
 
 ---
 
-Lembre-se de conferir o repositório original [aqui](https://github.com/Vegildo/deasfio-fiap-api-graphql) e deixar uma ⭐️ se você gostou do projeto!
+Lembre-se de conferir o repositório original [aqui](https://github.com/Vegildo/desafio-fiap-api-graphql) e deixar uma ⭐️ se você gostou do projeto!
 
 
